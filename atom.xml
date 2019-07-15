@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>C:/Users/PC/Documents/Gridea/output</id>
+    <id>https://github.com/UUvUU</id>
     <title>Gridea</title>
-    <updated>2019-07-15T03:01:52.245Z</updated>
+    <updated>2019-07-15T05:12:44.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="C:/Users/PC/Documents/Gridea/output"/>
-    <link rel="self" href="C:/Users/PC/Documents/Gridea/output/atom.xml"/>
+    <link rel="alternate" href="https://github.com/UUvUU"/>
+    <link rel="self" href="https://github.com/UUvUU/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>C:/Users/PC/Documents/Gridea/output/images/avatar.png</logo>
-    <icon>C:/Users/PC/Documents/Gridea/output/favicon.ico</icon>
+    <logo>https://github.com/UUvUU/images/avatar.png</logo>
+    <icon>https://github.com/UUvUU/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>C:/Users/PC/Documents/Gridea/output/post/hello-gridea/index.html</id>
-        <link href="C:/Users/PC/Documents/Gridea/output/post/hello-gridea/index.html">
+        <id>https://github.com/UUvUU/post/hello-gridea</id>
+        <link href="https://github.com/UUvUU/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
